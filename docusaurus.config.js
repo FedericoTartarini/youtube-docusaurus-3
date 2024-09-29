@@ -144,6 +144,15 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  plugins: [
+    [
+      require.resolve("@cmfcmf/docusaurus-search-local"),
+      {
+        // Options here
+      },
+    ],
+  ],
 };
 
 export default config;
