@@ -23,7 +23,7 @@ The application is free to use, you can access it via this [link](https://heatwa
 
 A video I created about this project was awarded the "outstanding video" (first prize) in the [2023 Video Challenge from the journal Buildings & Cities](https://www.buildingsandcities.org/video-challenge/gallery-2023.html).
 
-You can read more about the award on this [blog post](../2023-11-22-video-challenge/index.md).
+[//]: # (You can read more about the award on this [blog post]&#40;../2023-11-22-video-challenge/index.md&#41;.)
 
 :::
 
